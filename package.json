@@ -21,7 +21,8 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "start": "node ."
+    "start": "node .",
+    "prepublishOnly": "npm t"
   },
   "devDependencies": {
     "@types/jest": "26.0.13",
