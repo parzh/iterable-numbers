@@ -2,7 +2,7 @@
   "name": "iterable-numbers",
   "description": "Allows using plain primitive numbers in iteration.",
   "author": "Dima Parzhitsky <parzhitsky@gmail.com>",
-  "version": "1.0.1-rc",
+  "version": "1.0.2-rc",
   "homepage": "https://github.com/parzh/iterable-numbers#readme",
   "repository": "github:parzh/iterable-numbers",
   "license": "MIT",
