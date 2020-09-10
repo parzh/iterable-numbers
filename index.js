@@ -16,3 +16,5 @@ Number.prototype[Symbol.iterator] = function numberIterator() {
 		},
 	};
 };
+
+module.exports = {};
